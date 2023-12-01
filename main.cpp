@@ -1,6 +1,7 @@
 #include <algorithm>
 #include <fstream>
 #include <iostream>
+#include <limits>
 #include <sstream>
 #include <string>
 
@@ -8,7 +9,7 @@
 
 using namespace std;
 
-bool playAgain() {
+bool playAgainPrompt() {
     string s;
     cout << "Continue? [Y/N] " << flush;
     cin >> s;
@@ -20,15 +21,21 @@ int main(int argc, const char* argv[]) {
     Concordance concordance;
     fin >> concordance;
 
+    bool playAgain = true;
+    string s;
+
     do {
-        cout << "What would you like to search? " << std::flush;
+        cout << "What would you like to search? " << flush;
         string word;
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
         getline(cin, word);
 
         for (const string& line : concordance.lookupWords(split(word))) {
             cout << line << endl;
         }
-    } while (playAgain());
+        playAgain = playAgainPrompt();
+
+    } while (playAgain);
 
 
 
