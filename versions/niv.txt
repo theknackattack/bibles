@@ -674,41 +674,41 @@ Job              8: 19  Surely its life withers away, and[ Or *Surely all the jo
 Job              8: 20  "Surely God does not reject the one who is blameless or strengthen the hands of evildoers.
 Job              8: 21  He will yet fill your mouth with laughter and your lips with shouts of joy.
 Job              8: 22  Your enemies will be clothed in shame, and the tents of the wicked will be no more."
-Job              9:  1  
-Job              9:  2  
-Job              9:  3  
-Job              9:  4  
-Job              9:  5  
-Job              9:  6  
-Job              9:  7  
-Job              9:  8  
-Job              9:  9  
-Job              9: 10  
-Job              9: 11  
-Job              9: 12  
-Job              9: 13  
-Job              9: 14  
-Job              9: 15  
-Job              9: 16  
-Job              9: 17  
-Job              9: 18  
-Job              9: 19  
-Job              9: 20  
-Job              9: 21  
-Job              9: 22  
-Job              9: 23  
-Job              9: 24  
-Job              9: 25  
-Job              9: 26  
-Job              9: 27  
-Job              9: 28  
-Job              9: 29  
-Job              9: 30  
-Job              9: 31  
-Job              9: 32  
-Job              9: 33  
-Job              9: 34  
-Job              9: 35  
+Job              9:  1  Then Job replied:
+Job              9:  2  "Indeed, I know that this is true. But how can mere mortals prove their innocence before God?
+Job              9:  3  Though they wished to dispute with him, they could not answer him one time out of a thousand.
+Job              9:  4  His wisdom is profound, his power is vast. Who has resisted him and come out unscathed?
+Job              9:  5  He moves mountains without their knowing it and overturns them in his anger.
+Job              9:  6  He shakes the earth from its place and makes its pillars tremble.
+Job              9:  7  He speaks to the sun and it does not shine; he seals off the light of the stars.
+Job              9:  8  He alone stretches out the heavens and treads on the waves of the sea.
+Job              9:  9  He is the Maker of the Bear[ Or *of Leo* ] and Orion, the Pleiades and the constellations of the south.
+Job              9: 10  He performs wonders that cannot be fathomed, miracles that cannot be counted.
+Job              9: 11  When he passes me, I cannot see him; when he goes by, I cannot perceive him.
+Job              9: 12  If he snatches away, who can stop him? Who can say to him, 'What are you doing?'
+Job              9: 13  God does not restrain his anger; even the cohorts of Rahab cowered at his feet.
+Job              9: 14  "How then can I dispute with him? How can I find words to argue with him?
+Job              9: 15  Though I were innocent, I could not answer him; I could only plead with my Judge for mercy.
+Job              9: 16  Even if I summoned him and he responded, I do not believe he would give me a hearing.
+Job              9: 17  He would crush me with a storm and multiply my wounds for no reason.
+Job              9: 18  He would not let me catch my breath but would overwhelm me with misery.
+Job              9: 19  If it is a matter of strength, he is mighty! And if it is a matter of justice, who can challenge him[ See Seputuagint; Hebrew *me*. ]?
+Job              9: 20  Even if I were innocent, my mouth would condemn me; if I were blameless, it would pronounce me guilty.
+Job              9: 21  "Although I am blameless, I have no concern for myself; I despise my own life.
+Job              9: 22  It is all the same; that is why I say, 'He destroys both the blameless and the wicked.'
+Job              9: 23  When a scrouge brings sudden death, he mocks the despair of the innocent.
+Job              9: 24  When a land falls into the hands of the wicked, he blindfolds its judges. If it is not he, then who is it?
+Job              9: 25  "My days are swifter than a runner; they fly away without a glimpse of joy.
+Job              9: 26  They skim past like boats of papyrus, like eagles swooping down on their prey.
+Job              9: 27  If I say, 'I will forget my complaint, I will change my expression, and smile,'
+Job              9: 28  I still dread all my sufferings, for I know you will not hold me innocent.
+Job              9: 29  Since I am already found guilty, why should I struggle in vain?
+Job              9: 30  Even if I washed myself with soap and my hands with cleansing powder,
+Job              9: 31  you would plunge me into a slime pit so that even my clothes would detest me.
+Job              9: 32  "He is not a mere mortal like me that I might answer him, that we might confront each other in court.
+Job              9: 33  If only there were someone to mediate between us, someone to bring us together,
+Job              9: 34  someone to remove God's rod from me, so that his terror would frighten me no more.
+Job              9: 35  Then I would speak up without fear of him, but as it now stands with me, I cannot.
 Job             10:  1  
 Job             10:  2  
 Job             10:  3  
