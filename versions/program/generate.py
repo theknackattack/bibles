@@ -13,6 +13,16 @@ def generate_bible_chapters_format_to_file():
         8: 22,
         9: 35,
         10: 22,
+        11: 20,
+        12: 25,
+        13: 28,
+        14: 22,
+        15: 35,
+        16: 22,
+        17: 16,
+        18: 21,
+        19: 29,
+        20: 29
     }
     
     # Open a file to write
