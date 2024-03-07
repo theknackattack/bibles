@@ -23,7 +23,7 @@ Genesis          1: 22  God blessed them and said, "Be fruitful and increase in 
 Genesis          1: 23  And there was evening, and there was morning—the fifth day.
 Genesis          1: 24  And God said, "Let the land produce living creatures according to their kinds: the livestock, the creatures that move along the ground, and the wild animals, each according to its kind." And it was so.
 Genesis          1: 25  God made the wild animals according to their kinds, the livestock according to their kinds, and all the living creatures that move along the ground according to their kinds. And God saw that it was good.
-Genesis          1: 26  Then God said, "Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wind animals,[ Probable reading of the original Hebrew text (see Syriac); Masoretic Text 'the earth' ]
+Genesis          1: 26  Then God said, "Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wind animals,{ Probable reading of the original Hebrew text (see Syriac); Masoretic Text 'the earth' }
 Genesis          1: 27  So God created mankind in his own image, in the image of God he created them; male and female he created them.
 Genesis          1: 28  God blessed them and said to them, "Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground."
 Genesis          1: 29  Then God said, "I give you every seed-bearing plant on the face of the whole earth and every tree that has fruit with seed in it. They will be yours for food.
@@ -33,24 +33,24 @@ Genesis          2:  1  This the heavens and the earth were completed in all the
 Genesis          2:  2  By the seventh day God had finished the work he had been doing; so on the seventh day he rested from all his work.
 Genesis          2:  3  Then God blessed the seventh day and made it holy, because on it he rested from all the work of creating that he had done.
 Genesis          2:  4  This is the account of the heavens and the earth when they were created, when the LORD God made the earth and the heavens.
-Genesis          2:  5  Now no shrub had yet appeared on the earth[ Or *land*; also in verse 6 ] and no plant had yet sprung up, for the God had not sent rain on the earth and there was no one to work the ground,
-Genesis          2:  6  but streams[ Or *mist* ] came up from the earth and watered the whole surface of the ground.
-Genesis          2:  7  Then the LORD God formed a man[ The Hebrew for *man (adam)* sounds like and may be related to the Hebrew for *ground (adamah)*; it is also the name *Adam* (see verse 20) ] from the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being.
+Genesis          2:  5  Now no shrub had yet appeared on the earth{ Or *land*; also in verse 6 } and no plant had yet sprung up, for the God had not sent rain on the earth and there was no one to work the ground,
+Genesis          2:  6  but streams{ Or *mist* } came up from the earth and watered the whole surface of the ground.
+Genesis          2:  7  Then the LORD God formed a man{ The Hebrew for *man (adam)* sounds like and may be related to the Hebrew for *ground (adamah)*; it is also the name *Adam* (see verse 20) } from the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being.
 Genesis          2:  8  Now the LORD God had planted a garden in the east, in Eden; and there he put the man he had formed.
 Genesis          2:  9  The LORD God made all kinds of trees to grow out of the ground—trees that were pleasing to the eye and good for food. In the middle of the garden were the tree of life and the tree of the knowledge of good and evil.
 Genesis          2: 10  A river watering the garden flowed from Eden; from there it was separated into four headwaters.
 Genesis          2: 11  The name of the first is the Pishon; it winds through the entire land of Havilah, where there is gold.
-Genesis          2: 12  (The gold of that land is good; aromatic resin[ Or *good; pearls* ] and onyx are also there.)
-Genesis          2: 13  The name of the second river is the Gihon; it winds through the entire land of Cush.[ Possibly southeast Mesopotamia ]
+Genesis          2: 12  (The gold of that land is good; aromatic resin{ Or *good; pearls* } and onyx are also there.)
+Genesis          2: 13  The name of the second river is the Gihon; it winds through the entire land of Cush.{ Possibly southeast Mesopotamia }
 Genesis          2: 14  The name of the third river is the Tigris; it runs along the east side of Ashur. And the fourth river is the Euphrates.
 Genesis          2: 15  The LORD God took the man and put him in the Garden of Eden to work it and take care of it.
 Genesis          2: 16  And the LORD God commanded the man, "You are free to eat from any tree in the garden;
 Genesis          2: 17  but you must not eat from the tree of the knowledge of good and evil, for when you eat from it you will certainly die."
 Genesis          2: 18  The LORD God said, "It is not good for the man to be alone. I will make a helper suitable for him."
 Genesis          2: 19  Now the LORD God had formed out of the ground all the wild animals and all the birds in the sky. He brought them to the man to see what he would name them; and whatever the man called each living creature, that was its name.
-Genesis          2: 20  So the man gave names to all the livestock, the birds in the sky and all the wild animals. But for Adam[ Or *the man* ] no suitable helper was found.
-Genesis          2: 21  So the LORD God caused the man to fall into a deep sleep; and while he was sleeping, he took one of the man's ribs[ Or *took part of the man's side* ] and then closed up the place with flesh.
-Genesis          2: 22  Then the LORD God made a woman from the rib[ Or *part* ] he had taken out of the man, and he brought her to the man.
+Genesis          2: 20  So the man gave names to all the livestock, the birds in the sky and all the wild animals. But for Adam{ Or *the man* } no suitable helper was found.
+Genesis          2: 21  So the LORD God caused the man to fall into a deep sleep; and while he was sleeping, he took one of the man's ribs{ Or *took part of the man's side* } and then closed up the place with flesh.
+Genesis          2: 22  Then the LORD God made a woman from the rib{ Or *part* } he had taken out of the man, and he brought her to the man.
 Genesis          2: 23  The man said, "This is now bone of my bones and flesh of my flesh; she shall be called 'woman,' for she was taken out of man."
 Genesis          2: 24  That is why a man leaves his father and mother and is united to his wife, and they become one flesh.
 Genesis          2: 25  Adam and his wife were both naked, and they felt no shame.
@@ -68,48 +68,48 @@ Genesis          3: 11  And he said, "Who told you that you were naked? Have you
 Genesis          3: 12  The man said, "The woman you put here with me—she gave me some fruit from the tree, and I ate it."
 Genesis          3: 13  Then the LORD God said to the woman, "What is this you have done?" The woman said, "The serpent deceived me, and I ate it."
 Genesis          3: 14  So the LORD God said to the serpent, "Because you have done this, "Cursed are you above all livestock
-Genesis          3: 15  And I will put emnity between you and the woman, and between your offspring[ Or *seed* ] and hers; he will crush[ Or *strike* ] your head, and you will strike his heel."
+Genesis          3: 15  And I will put emnity between you and the woman, and between your offspring{ Or *seed* } and hers; he will crush{ Or *strike* } your head, and you will strike his heel."
 Genesis          3: 16  To the woman he said, "I will make your pains in childbearing very severe; with painful labor you will give birth to children. Your desire will be for your husband, and he will rule over you."
 Genesis          3: 17  To Adam he said, "Because you listened to your wife and ate fruit from the tree about which I commanded you, 'You must not eat from it,' "Cursed is the ground because of you; through painful toil you will eat food from it all the days of your life.
 Genesis          3: 18  It will produce throns and thistles for you, and you will eat the plants of the field.
 Genesis          3: 19  By the sweat of your brow you will eat your food until you return to the ground, since from it you were taken; for dust your are and to dust you will return."
-Genesis          3: 20  Adam[ Or *the man* ] named his wife Eve,[ *Eve* probably means *living*. ] because she would become the mother of all the living.
+Genesis          3: 20  Adam{ Or *the man* } named his wife Eve,{ *Eve* probably means *living*. } because she would become the mother of all the living.
 Genesis          3: 21  The LORD God made garments of skin for Adam and his wife and clothed them.
 Genesis          3: 22  And the LORD God said, "The man has now become like one of us, knowing good and evil. He must not be allowed to reach out his hand and take also from the tree of life and eat, and live forever."
 Genesis          3: 23  So the LORD God banished him from the Garden of Eden to work the ground from which he had been taken.
-Genesis          3: 24  After he drove out the man out, he placed on the east side[ Or *placed in front* ] of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life.
-Genesis          4:  1  Adam[ Or *The man* ] made love to his wife Eve, and she became pregnant and gave birth to Cain.[ *Cain* sounds like the Hebrew for *brought forth* or *acquired*. ] She said, "With the help of the LORD I have brought forth[ Or *have acquired* ] a man."
+Genesis          3: 24  After he drove out the man out, he placed on the east side{ Or *placed in front* } of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life.
+Genesis          4:  1  Adam{ Or *The man* } made love to his wife Eve, and she became pregnant and gave birth to Cain.{ *Cain* sounds like the Hebrew for *brought forth* or *acquired*. } She said, "With the help of the LORD I have brought forth{ Or *have acquired* } a man."
 Genesis          4:  2  Later she gave birth to his brother Abel. Now Abel kept flocks, and Cain worked the soul.
 Genesis          4:  3  In the course of time Cain brought some of the fruits of the soil as an offering to the LORD.
 Genesis          4:  4  And Abel also brought an offering—fat poritions from some of the firstborn of his flock. The LORD looked with favor on Abel and his offering,
 Genesis          4:  5  but on Cain and his offering he did not look with favor. So Cain was very angry, and his face was downcast.
 Genesis          4:  6  Then the LORD said to Cain, "Why are you angry? Why is your face downcast?
 Genesis          4:  7  If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door; it desires to have you, but you must rule over it."
-Genesis          4:  8  Now Cain said to his brother Abel, "Let's go out to the field."[ Samaritan Pentateuch, Septuagint, Vulgate and Syriac; Masoretic Text does not have *"Let's go out to the field"* ] While they were in the field, Cain attacked his brother Abel and killed him.
+Genesis          4:  8  Now Cain said to his brother Abel, "Let's go out to the field."{ Samaritan Pentateuch, Septuagint, Vulgate and Syriac; Masoretic Text does not have *"Let's go out to the field"* } While they were in the field, Cain attacked his brother Abel and killed him.
 Genesis          4:  9  Then the LORD said to Cain, "Where is your brother Abel?" "I don't know," he replied. "Am I my brother's keeper?"
 Genesis          4: 10  The LORD said, "What have you done? Listen! Your brother's blood cries out to me from the ground.
 Genesis          4: 11  Now you are under a curse and driven from the ground, which opened its mouth to receive your brother's blood from your hands.
 Genesis          4: 12  When you work the ground, it will no longer yield its crops for you. You will be a restless wanderer on the earth."
 Genesis          4: 13  Cain said to the Lord, "My punishment is more than I can bear.
 Genesis          4: 14  Today you are driving me from the land, and I will be hidden from your presence; I will be a restless wanderer on the earth, and whoever finds me will kill me."
-Genesis          4: 15  But the LORD said to him, "Not so[ Septuagint, Vulgate and Syriac; Hebrew *Very well* ]; anyone who kills Cain will suffer vengeance seven times over." Then the LORD put a mark on Cain so that no one who found him would kill him.
-Genesis          4: 16  So Cain went out from the LORD's presence and lived in the land of Nod,[ *Nod* means *wandering* (see verses 12 and 14). ] east of Eden.
+Genesis          4: 15  But the LORD said to him, "Not so{ Septuagint, Vulgate and Syriac; Hebrew *Very well* }; anyone who kills Cain will suffer vengeance seven times over." Then the LORD put a mark on Cain so that no one who found him would kill him.
+Genesis          4: 16  So Cain went out from the LORD's presence and lived in the land of Nod,{ *Nod* means *wandering* (see verses 12 and 14). } east of Eden.
 Genesis          4: 17  Cain made love to his wife, and she became pregnant and gave birth to Enoch. Cain was then building a city, and he named it after his son Enoch.
 Genesis          4: 18  To Enoch was born Irad, and Irad was the father of Mehujael, and Mehujael was the father of Methushael, and Methushael was the father of Lamech.
 Genesis          4: 19  Lamech married two women, one named Adah and the other Zillah.
 Genesis          4: 20  Adah gave birth to Jabal; he was the father of those who live in tents and raise livestocks.
 Genesis          4: 21  His brother's name was Jubal; he was the father of all who play stringed instruments and pipes.
-Genesis          4: 22  Zillah also had a son, Tubal-Cain, who forged all kinds of tools out of[ Or *who instructed all who work in* ] bronze and iron. Tubal-Cain's sister was Naamah.
+Genesis          4: 22  Zillah also had a son, Tubal-Cain, who forged all kinds of tools out of{ Or *who instructed all who work in* } bronze and iron. Tubal-Cain's sister was Naamah.
 Genesis          4: 23  Lamech said to his wives, "Adah and Zillah, listen to me; wives of Lamech, hear my words. I have killed a man for wounding me, a young man for injuring me.
 Genesis          4: 24  If Cain is avenged sevent times, then Lamech seventy-seven times."
-Genesis          4: 25  Adam made love to his wife again, and she gave birth to a son and named him Seth,[ *Seth* probably means *granted* ] saying, "God has granted me another child in place of Abel, since Cain killed him."
-Genesis          4: 26  Seth also had a son, and he named him Enosh. At that time people began to call on[ Or *to proclaim* ] the name of the LORD.
+Genesis          4: 25  Adam made love to his wife again, and she gave birth to a son and named him Seth,{ *Seth* probably means *granted* } saying, "God has granted me another child in place of Abel, since Cain killed him."
+Genesis          4: 26  Seth also had a son, and he named him Enosh. At that time people began to call on{ Or *to proclaim* } the name of the LORD.
 Genesis          5:  1  This is the written account of Adam's family line. When God created mankind, he made them in the likeness of God.
-Genesis          5:  2  He created them male and female and blessed them. And he named them "Mankind"[ Hebrew *adam* ] when they were created.
+Genesis          5:  2  He created them male and female and blessed them. And he named them "Mankind"{ Hebrew *adam* } when they were created.
 Genesis          5:  3  When Adam had lived 130 years, he had a son in his own likeness, in his own image; and he named him Seth.
 Genesis          5:  4  After Seth was born, Adam lived 800 years and had other sons and daughters.
 Genesis          5:  5  Altogether, Adam lived a total of 930 years, and then he died.
-Genesis          5:  6  When Seth had lived 105 years, he became the father[ *Father* may mean *ancestor*; also in verses 7-26. ] of Enosh.
+Genesis          5:  6  When Seth had lived 105 years, he became the father{ *Father* may mean *ancestor*; also in verses 7-26. } of Enosh.
 Genesis          5:  7  After he became the father of Enosh, Seth lived 807 years and had other sons and daughters.
 Genesis          5:  8  Altogether, Seth lived a total of 912 years, and then he died.
 Genesis          5:  9  When Enosh had lived 90 years, he became the father of Kenan.
@@ -132,13 +132,13 @@ Genesis          5: 25  When Methuselah had lived 187 years, he became the fathe
 Genesis          5: 26  After he became the father of Lamech, Methuselah lived 782 years and had other sons and daughters.
 Genesis          5: 27  Altogether, Methuselah lived a total of 969 years, and then he died.
 Genesis          5: 28  When Lamech had lived 182 years, he had a son.
-Genesis          5: 29  He named him Noah[ *Noah* sounds like the Hebrew for *comfort*. ] and said, "He will comfort us in the labor and painful toil of our hands caused by the ground the LORD has cursed."
+Genesis          5: 29  He named him Noah{ *Noah* sounds like the Hebrew for *comfort*. } and said, "He will comfort us in the labor and painful toil of our hands caused by the ground the LORD has cursed."
 Genesis          5: 30  After Noah was born, Lamech lived 595 years and had other sons and daughters.
 Genesis          5: 31  Altogether, Lamech lived a total of 777 years, and then he died.
 Genesis          5: 32  After Noah was 500 years old, he became the father of Shem, Ham, and Japheth.
 Genesis          6:  1  When human beings began to increase in number on the earth and daughters were born to them,
 Genesis          6:  2  the sons of God saw that the daughters of humans were beautiful, and they married any of them they chose.
-Genesis          6:  3  Then the LORD said, "My Spirit will not contend with[ Or *My spirit will not remain in* ] humans forever, for they are mortal[ Or *corrupt* ]; their days will be a hundred and twenty years."
+Genesis          6:  3  Then the LORD said, "My Spirit will not contend with{ Or *My spirit will not remain in* } humans forever, for they are mortal{ Or *corrupt* }; their days will be a hundred and twenty years."
 Genesis          6:  4  The Nephilim were on the earth in those days—and also afterward—when the sons of God went to the daughters of humans and had children by them. They were the heroes of old, men of renown.
 Genesis          6:  5  The LORD saw how great the wickedness of the human race had become on the earth, and that every inclination of the thoughts of the human heart was only evil all the time.
 Genesis          6:  6  The LORD regretted that he had made human beings on the earth, and his heart was deeply troubled.
@@ -149,9 +149,9 @@ Genesis          6: 10  Noah had three sons: Shem, Ham and Japheth.
 Genesis          6: 11  Now the earth was corrupt in God's sight and was full of violence.
 Genesis          6: 12  God saw how corrupt the earth had become, for all the people on earth had corrupted their ways.
 Genesis          6: 13  So God said to Noah, "I am going to put an end to all people, for the earth is filled with violence becasue of them. I am surely going to destroy both them and the earth.
-Genesis          6: 14  So make yourself an ark of cypress[ The meaning of the Hebrew for this word is uncertain. ] wood; make rooms in it and coat it with pitch inside and out.
-Genesis          6: 15  This is how you are to build it: The ark is to be three hundred cubits long, fifty cubits wide and thirty cubits high.[ That is, about 450 feet long, 75 feet wide and 45 feet high or about 135 meters long, 23 meters wide and 14 meters high ]
-Genesis          6: 16  Make a roof for it, leaving below the roof an opening one cubit[ That is, about 18 inches or about 45 cm ] high all around.[ The meaning of the Hebrew for this clause is uncertain. ] Put a door in the side of the ark and make lower, middle, and upper decks.
+Genesis          6: 14  So make yourself an ark of cypress{ The meaning of the Hebrew for this word is uncertain. } wood; make rooms in it and coat it with pitch inside and out.
+Genesis          6: 15  This is how you are to build it: The ark is to be three hundred cubits long, fifty cubits wide and thirty cubits high.{ That is, about 450 feet long, 75 feet wide and 45 feet high or about 135 meters long, 23 meters wide and 14 meters high }
+Genesis          6: 16  Make a roof for it, leaving below the roof an opening one cubit{ That is, about 18 inches or about 45 cm } high all around.{ The meaning of the Hebrew for this clause is uncertain. } Put a door in the side of the ark and make lower, middle, and upper decks.
 Genesis          6: 17  I am going to bring floodwaters on the earth to destroy all life under the heavens, every creature that has the breath of life in it. Everything on earth will perish.
 Genesis          6: 18  But I will establish my covenant with you, and you will enter the ark—you and your sons and your wife and your sons' wives with you.
 Genesis          6: 19  You are to bring into the ark two of all living creatures, male and female, to keep them alive with you.
@@ -177,7 +177,7 @@ Genesis          7: 16  The animals going in were male and female of every livin
 Genesis          7: 17  For forty days the flood kept coming on the earth, and as the waters increased they lifted the ark high above the earth.
 Genesis          7: 18  The waters rose and increased greatly on the earth, and the ark floated on the surface of the water.
 Genesis          7: 19  They rose greatly on the earth, and all the high mountains under the entire heavens were covered.
-Genesis          7: 20  The waters rose and covered the mountains to a depth of more than fifteen cubits.[ That is, about 23 feet or about 6.8 meters ][ Or *rose more than fifteen cubits, and the mountains were covered* ]
+Genesis          7: 20  The waters rose and covered the mountains to a depth of more than fifteen cubits.{ That is, about 23 feet or about 6.8 meters }{ Or *rose more than fifteen cubits, and the mountains were covered* }
 Genesis          7: 21  Every living thing that moved onto land perished—birds, livestock, wild animals, all the creatures that swarm over the earth, and all mankind.
 Genesis          7: 22  Everything on dry land that had the breath of life in its nostrils died.
 Genesis          7: 23  Every living thing on the face of the earth was wiped out; people and animals and the creatures that moved along the ground and the birds were wiped from the earth. Only Noah was left, and those with him in the ark.
@@ -202,7 +202,7 @@ Genesis          8: 17  Bring out every kind of living creature that is with you
 Genesis          8: 18  So Noah came out, together with his sons and his wife and his sons' wives.
 Genesis          8: 19  All the animals and all the creatures that move along the ground and all the birds—everything that moves on land—came out of the ark, one kind after another.
 Genesis          8: 20  Then Noah built an alter to the LORD and, taking some of all the clean animals and clean birds, he sacrificed burnt offerings on it.
-Genesis          8: 21  The LORD smelled the pleasing aroma and said in his heart: "Never again will I curse the ground because of humans, even though[ Or *humans, for* ] every inclination of the human heart is evil from childhood. And never again will I destroy all living creatures, as I have done.
+Genesis          8: 21  The LORD smelled the pleasing aroma and said in his heart: "Never again will I curse the ground because of humans, even though{ Or *humans, for* } every inclination of the human heart is evil from childhood. And never again will I destroy all living creatures, as I have done.
 Genesis          8: 22  "As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night will never cease."
 Genesis          9:  1  Then God blessed Noah and his sons, saying to them, "Be fruitful and increase in number and fill the earth.
 Genesis          9:  2  The fear and dread of you will fall on all the beasts of the earth, and on all the birds in the sky, on every creature that moves along the ground, and on all the fish in the sea; they are given into your hands.
@@ -223,41 +223,41 @@ Genesis          9: 16  Whenever the rainbow appears in the clouds, I will see i
 Genesis          9: 17  So God said to Noah, "This is the sign of the covenant I have established between me and all life on the earth."
 Genesis          9: 18  The sons of Noah who came out of the ark were Shem, Ham, and Japheth. (Ham was the father of Canaan.)
 Genesis          9: 19  These were the three sons of Noah, and from them came the people who were scattered over the whole earth.
-Genesis          9: 20  Noah, a man of the soil. proceeded[ Or *soil, was the first* ] to plant a vineyard.
+Genesis          9: 20  Noah, a man of the soil. proceeded{ Or *soil, was the first* } to plant a vineyard.
 Genesis          9: 21  When he drank some of its wine, he became drunk and lay uncovered inside his tent.
 Genesis          9: 22  Ham, the father of Canaan, saw his father naked and told his two brothers outside.
 Genesis          9: 23  But Shem and Japheth took a garment and laid it across their shoulders; then they walked in backward and covered their father's naked body. Their faces were turned the other way so that they would not see their father naked.
 Genesis          9: 24  When Noah awoke from his wine and found out what his youngest son had done to him,
 Genesis          9: 25  he said, "Cursed be Canaan! The lowest of slaves will he be to his brothers."
 Genesis          9: 26  He also said, "Praise be to the LORD, the God of Shem! May Canaan be the slave of Shem.
-Genesis          9: 27  May God extend Japheth's[ *Japheth* sounds like the Hebrew for *extend* ] territory; may Japheth live in the tents of Shem, and may Canaan be the slave of Japheth."
+Genesis          9: 27  May God extend Japheth's{ *Japheth* sounds like the Hebrew for *extend* } territory; may Japheth live in the tents of Shem, and may Canaan be the slave of Japheth."
 Genesis          9: 28  After the flood Noah lived 350 years.
 Genesis          9: 29  Noah lived a total of 950 years, and then he died.
 Genesis         10:  1  This is the account of Shem, Ham, and Japheth, Noah's sons, who themselves had sons after the flood.
-Genesis         10:  2  The sons[ *Sons* may mean *descendants* or *successors* or *nations*; also in verses 3, 4, 6, 7, 20-23, 29 and 31. ] of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshek and Tiras.
+Genesis         10:  2  The sons{ *Sons* may mean *descendants* or *successors* or *nations*; also in verses 3, 4, 6, 7, 20-23, 29 and 31. } of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshek and Tiras.
 Genesis         10:  3  The sons of Gomer: Ashkenaz, Riphath and Togarmah.
-Genesis         10:  4  The sons of Javan: Elishah, Tarshish, the Kittites and the Rodanites.[ Some manuscripts of the Masoretic Text and Samaritan Pentateuch (see also Septuagint and 1 Chron. 1:7); most manuscripts of the Masoretic Text *Dodanites* ]
+Genesis         10:  4  The sons of Javan: Elishah, Tarshish, the Kittites and the Rodanites.{ Some manuscripts of the Masoretic Text and Samaritan Pentateuch (see also Septuagint and 1 Chron. 1:7); most manuscripts of the Masoretic Text *Dodanites* }
 Genesis         10:  5  (From these the maritime peoples spread out into their territories by their clans within their nations, each with its own language.)
 Genesis         10:  6  The sons of Ham: Cush, Egypt, Put and Canaan.
 Genesis         10:  7  The sons of Cush: Seba, Havilah, Sabtah, Raamah and Sabteka. The sons of Raamah: Sheba and Dedan.
-Genesis         10:  8  Cush was the father[ *Father* may mean *ancestor* or *predecessor* or *founder*; also in verses 13, 15, 24 and 26. ] of Nimrod, who became a mighty warrior on the earth.
+Genesis         10:  8  Cush was the father{ *Father* may mean *ancestor* or *predecessor* or *founder*; also in verses 13, 15, 24 and 26. } of Nimrod, who became a mighty warrior on the earth.
 Genesis         10:  9  He was a mighty hunter before the LORD; that is why it is said, "Like Nimrod, a mighty warrior hunter before the LORD."
-Genesis         10: 10  The first centers of his kingdom were Babylon, Uruk, Akkadand Kalneh, in[ Or *Uruk and Akkad—all of them in* ] Shinar.[ That is, Babylonia ]
-Genesis         10: 11  From that land he went to Assyria, where he built Nineveh, Rehoboth Ir,[ Or *Nineveh with its city squares* ] Calah
+Genesis         10: 10  The first centers of his kingdom were Babylon, Uruk, Akkadand Kalneh, in{ Or *Uruk and Akkad—all of them in* } Shinar.{ That is, Babylonia }
+Genesis         10: 11  From that land he went to Assyria, where he built Nineveh, Rehoboth Ir,{ Or *Nineveh with its city squares* } Calah
 Genesis         10: 12  and Resen, which is between Nineveh and Calah—which is the great city.
 Genesis         10: 13  Egypt was the father of the Ludites, Anamites, Lehabites, Naphtuhites,
 Genesis         10: 14  Pathrusites, Kasluhites (from whom the Philistines came) and Caphtorites.
-Genesis         10: 15  Canaan was the father of Sidon his firstborn,[ Ir *of the Sidonites, the foremost* ] and of the Hittites,
+Genesis         10: 15  Canaan was the father of Sidon his firstborn,{ Ir *of the Sidonites, the foremost* } and of the Hittites,
 Genesis         10: 16  Jebusites, Amorites, Girgashites,
 Genesis         10: 17  Hivites, Arkites, Sinites,
 Genesis         10: 18  Arvadites, Zemarites and Hamathites. Later the Canaanite clans scattered
 Genesis         10: 19  and the borders of Canaan reached from Sidon toward Gerar as far as Gaza, and then toward Sodom, Gomorrah, Admah and Zeboyim, as far as Lasha.
 Genesis         10: 20  These are the sons of Ham by their clans and languages, in their territories and nations.   
-Genesis         10: 21  Sons were also born to Shem, whose older brother was[ Or *Shem, the older brother of* ] Japheth; Shem was the ancestor of all the sons of Eber.
+Genesis         10: 21  Sons were also born to Shem, whose older brother was{ Or *Shem, the older brother of* } Japheth; Shem was the ancestor of all the sons of Eber.
 Genesis         10: 22  The sons of Shem: Elam, Ashur, Arphaxad, Lud and Aram.
-Genesis         10: 23  The sons of Aram: Uz, Hul, Gether and Meshek.[ See Septuagint and 1 Chron. 1:17; Hebrew *Mash* ]
-Genesis         10: 24  Arphaxad was the father of[ Hebrew; Septuagint *father of Cainan, and Cainan was the father of* ] Shelah, and Shelah the father of Eber.
-Genesis         10: 25  Two sons were born to Eber: One was named Peleg,[ *Peleg* means *division* ] because in his time the earth was divided; his brother was named Joktan.
+Genesis         10: 23  The sons of Aram: Uz, Hul, Gether and Meshek.{ See Septuagint and 1 Chron. 1:17; Hebrew *Mash* }
+Genesis         10: 24  Arphaxad was the father of{ Hebrew; Septuagint *father of Cainan, and Cainan was the father of* } Shelah, and Shelah the father of Eber.
+Genesis         10: 25  Two sons were born to Eber: One was named Peleg,{ *Peleg* means *division* } because in his time the earth was divided; his brother was named Joktan.
 Genesis         10: 26  Joktan was the father of Almodad, Shelph, Hazarmaveth, Jerah,
 Genesis         10: 27  Hadoram, Uzal, Diklah,
 Genesis         10: 28  Obal, Abimael, Sheba,
@@ -266,18 +266,18 @@ Genesis         10: 30  The region where they lived stretched from Mesha toward 
 Genesis         10: 31  These are the sons of Shem by their clans and languages, in their territories and nations.
 Genesis         10: 32  These are the clans of Noah's sons, according to their lines of descent, within their nations. From these the nations spread out over the earth after the flood.
 Genesis         11:  1  Now the whole world had one language and a common speech.
-Genesis         11:  2  As people moved eastward,[ Or *from the east*; or *in the east* ] they found a plain in Shinar[ That is, Babylonia ] and settled there.
+Genesis         11:  2  As people moved eastward,{ Or *from the east*; or *in the east* } they found a plain in Shinar{ That is, Babylonia } and settled there.
 Genesis         11:  3  They said to each other, "Come, let's make bricks and bake them thoroughly." They used brick instead of stone, and tar for mortar.
 Genesis         11:  4  Then they said, "Come, let us build ourselves a city, with a tower that reaches to the heavens, so that we may make a name for ourselves; otherwise we will be scattered over the face of the whole."
 Genesis         11:  5  But the LORD came down to see the city and the tower the people were building.
 Genesis         11:  6  The LORD said, "If as one people speaking the same language they have begun to do this, then nothing they plan to do will be impossible for them.
 Genesis         11:  7  Come, let us go down and confuse their language so they will not understand each other."
 Genesis         11:  8  So the LORD scattered them from there over all the earth, and they stopped building the city.
-Genesis         11:  9  That is why it was called Babel[ That is, Babylon; *Babel* sounds like the Hebrew for *confused*. ]—because there the LORD confused the language of the whole world. From there the LORD scattered them over the face of the whole world.
-Genesis         11: 10  This is the account of Shem's family line. Two years after the flood, when Shem was 100 years old, he became the father[ *Father* may mean *ancestor*; also in verses 11-25. ] of Arphaxad.
+Genesis         11:  9  That is why it was called Babel{ That is, Babylon; *Babel* sounds like the Hebrew for *confused*. }—because there the LORD confused the language of the whole world. From there the LORD scattered them over the face of the whole world.
+Genesis         11: 10  This is the account of Shem's family line. Two years after the flood, when Shem was 100 years old, he became the father{ *Father* may mean *ancestor*; also in verses 11-25. } of Arphaxad.
 Genesis         11: 11  And after he became the father of Arphaxad, Shem lived 500 years and had other sons and daughters.
 Genesis         11: 12  When Arphaxad had lived 35 years, he became the father of Shelah.
-Genesis         11: 13  And after he became the father of Shelah, Arphaxad lived 403 years and had other sons and daughters.[ Hebrew; Septuagint (see also Luke 3:35, 36 and note at Gen. 10:24) *35 years, he became the father of Cainan. <sup>13</sup>And after he became the father of Cainan, Arphaxad lived 430 years and had other sons and daughters, and then he died. When Cainan had lived 130 years, he became the father of Shelah. And after he became the father of Shelah, Cainan lived 330 years and had other sons and daughters* ]
+Genesis         11: 13  And after he became the father of Shelah, Arphaxad lived 403 years and had other sons and daughters.{ Hebrew; Septuagint (see also Luke 3:35, 36 and note at Gen. 10:24) *35 years, he became the father of Cainan. <sup>13</sup>And after he became the father of Cainan, Arphaxad lived 430 years and had other sons and daughters, and then he died. When Cainan had lived 130 years, he became the father of Shelah. And after he became the father of Shelah, Cainan lived 330 years and had other sons and daughters* }
 Genesis         11: 14  When Shelah had lived 30 years, he became the father of Eber.
 Genesis         11: 15  And after he became the father of Eber, Shelah lived 403 years and had other sons and daughters.
 Genesis         11: 16  When Eber had lived 34 years, he became the father of Peleg.
@@ -490,14 +490,14 @@ Ruth             4: 22
 2 Chronicles    36: 23
 Ezra            10: 44
 Nehemiah        13: 31
-Esther           8:  9  At once the royal secretaries were summoned—on the twenty-third day of the third month, the month of Sivan. They wrote out all Mordecai's orders to the Jews, and to the satraps, governors and nobles of the 127 provinces stretching from India to Cush.[ That is, the upper Nile region. ] These orders were written in the script of each province and the language of each people and also to the Jews in their own script and language.
+Esther           8:  9  At once the royal secretaries were summoned—on the twenty-third day of the third month, the month of Sivan. They wrote out all Mordecai's orders to the Jews, and to the satraps, governors and nobles of the 127 provinces stretching from India to Cush.{ That is, the upper Nile region. } These orders were written in the script of each province and the language of each people and also to the Jews in their own script and language.
 Esther          10:  3
 Job              1:  1  In the land of Uz there lived a man whose name was Job. This man was blameless and upright; he feared God and shunned evil.
 Job              1:  2  He had seven sons and three daughters,
 Job              1:  3  and he owned seven thousand sheep, three thousand camels, five hundred yoke of oxen and five hundred donkeys, and had a large number of servants. He was the greatest man among all the people of the East.
 Job              1:  4  His sons used to hold feasts in their homes on their birthdays, and they would invite their three sisters to eat and drink with them.
 Job              1:  5  When a period of feasting had run its course, Job would make arrangements for them to be purified. Early in the morning he would sacrifice a burnt offering for each of them, thinking, "Perhaps my children have sinned and cursed God in their hearts." This was Job's regular custom.
-Job              1:  6  One day the angels[ Hebrew *the sons of God* ] came to present themselves before the LORD, and Satan[ Hebrew *satan means adversary*. ] also came with them.
+Job              1:  6  One day the angels{ Hebrew *the sons of God* } came to present themselves before the LORD, and Satan{ Hebrew *satan means adversary*. } also came with them.
 Job              1:  7  The LORD said to Satan, "Where have you come from?" Satan answered the LORD, "From roaming throughout the earth, going back and forth on it."
 Job              1:  8  Then the LORD said to Satan, "Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil."
 Job              1:  9  "Does Job fear God for nothing?" Satan replied.
@@ -512,9 +512,9 @@ Job              1: 17  While he was still speaking, another messenger came and 
 Job              1: 18  While he was still speaking, yet another messenger came and said, "Your sons and daughters were feasting and drinking wine at the oldest brother's house,
 Job              1: 19  when suddenly a mighty wind swept in from the desert and struck the four corners of the house. It collapsed on them and they are dead, and I am the only one who has escaped to tell you!"
 Job              1: 20  At this, Job got up and tore his robe and shaved his head. Then he fell to the ground in worship
-Job              1: 21  and said: "Naked I came from my mother's womb, and naked I will depart.[ Or *will return there* ] The LORD gave and the LORD has taken away; may the name of the LORD be praised."
+Job              1: 21  and said: "Naked I came from my mother's womb, and naked I will depart.{ Or *will return there* } The LORD gave and the LORD has taken away; may the name of the LORD be praised."
 Job              1: 22  In all this, Job did not sin by charging God with wrongdoing.
-Job              2:  1  On another day the angels[ Hebrew *the sons of God* ] came to present themselves before the LORD, and Satan also came with them to present himself before him.
+Job              2:  1  On another day the angels{ Hebrew *the sons of God* } came to present themselves before the LORD, and Satan also came with them to present himself before him.
 Job              2:  2  And the LORD said to Satan, "Where have you come from?" Satan answered the LORD, "From roaming throughout the earth, going back and forth on it."
 Job              2:  3  Then the LORD said to Satan, "Have you considered my servant Job? There is no one on earth like him; he is blameless and upright, a man who fears God and shuns evil. And he still maintains his integrity, though you incited me against him to ruin him without any reason."
 Job              2:  4  "Skin for skin!" Satan replied. "A man will give his all he has for his own life.
@@ -523,7 +523,7 @@ Job              2:  6  The LORD said to Satan, "Very well, then, he is in your 
 Job              2:  7  So Satan went out from the presence of the LORD and afflicted Job with painful sores from the soles of his feet to the crown of his head.
 Job              2:  8  Then Job took a piece of broken pottery and scraped himself with it as he sat among the ashes.
 Job              2:  9  His wife said to him, "Are you still maintaining your integrity? Curse God and die!"
-Job              2: 10  He replied, "You are talking like a foolish[ The Hebrew word rendered *foolish* denotes moral deficiency. ] woman. Shall we accept good from God, and not trouble?" In all this, Job did not sin in what he said.
+Job              2: 10  He replied, "You are talking like a foolish{ The Hebrew word rendered *foolish* denotes moral deficiency. } woman. Shall we accept good from God, and not trouble?" In all this, Job did not sin in what he said.
 Job              2: 11  When Job's three friends, Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite, heard about all the troubles that had come upon him, they set out from their homes and met together by agreement to go and sympathize with him and comfort him.
 Job              2: 12  When they saw him from a distance, they could hardly recognize him; they began to weep aloud, and they tore their robes and sprinkled dust on their heads.
 Job              2: 13  Then they sat on the ground with him for seven days and seven nights. No one said a word to him, because they saw how great his suffering was.
@@ -534,7 +534,7 @@ Job              3:  4  That day—may it turn to darkness; may God above not ca
 Job              3:  5  May gloom and utter darkness claim it once more; may a cloud settle over it; may blackness overwhelm it.
 Job              3:  6  That night—may thick darkness seize it; may it not be included among the days of the year nor be entered in any of the months.
 Job              3:  7  May that night be barren; may no shout of joy he heard in it.
-Job              3:  8  May those who curse days[ Or *curse the sea* ] curse that day, those who are ready to rouse Leviathan.
+Job              3:  8  May those who curse days{ Or *curse the sea* } curse that day, those who are ready to rouse Leviathan.
 Job              3:  9  May its morning stars become dark; may it wait for daylight in vain and not see the first rays of dawn,
 Job              3: 10  for it did not shut the doors of the womb on me to hide the trouble from my eyes.
 Job              3: 11  "Why did I not perish at birth, and die as I came from the womb?
@@ -590,7 +590,7 @@ Job              5: 13  He catches the wise in their craftiness, and the schemes
 Job              5: 14  Darkness comes upon them in the daytime; at noon they grope as in the night.
 Job              5: 15  He saves the needy from the sword in their mouth; he saves them from the clutches of the powerful.
 Job              5: 16  So the poor have hope, and injustice shuts its mouth.
-Job              5: 17  "Blessed is the one whom God corrects; so do not despise the discipline of the Almighty.[ Hebrew Shaddai*; here and throughout Job ]
+Job              5: 17  "Blessed is the one whom God corrects; so do not despise the discipline of the Almighty.{ Hebrew Shaddai*; here and throughout Job }
 Job              5: 18  For he wounds, but he also binds up; he injures, but his hands also heal.
 Job              5: 19  From six calamities he will rescue you; in seven no harm will touch you.
 Job              5: 20  In famine he will deliver you from death, and in battle from the stroke of the sword.
@@ -606,7 +606,7 @@ Job              6:  2  "If only my anguish could we weighed and all my misery b
 Job              6:  3  It would surely outweigh the sand of the seas—no wonder my words have been impetuous.
 Job              6:  4  The arrows of the Almighty are in me, my spirit drinks in their poison; God's terrors are marshaled against me.
 Job              6:  5  Does a wild donkey bray when it has grass, or an ox bellow when it has fodder?
-Job              6:  6  Is tasteless food eaten without salt, or is the flavor in the sap of teh mallow[ The meaning of the Hebrew for this phrase is uncertain. ]?
+Job              6:  6  Is tasteless food eaten without salt, or is the flavor in the sap of teh mallow{ The meaning of the Hebrew for this phrase is uncertain. }?
 Job              6:  7  I refuse to touch it; such food makes me ill.
 Job              6:  8  "Oh, that I might have my request, that God would grant what I hope,
 Job              6:  9  that God would be willing to crush me, to let loose his hand and cut off my life!
@@ -629,7 +629,7 @@ Job              6: 25  How painful are honest words! But what do your arguments
 Job              6: 26  Do you mean to correct what I say, and treat my desperate words as wind?
 Job              6: 27  You would even cast lots for the fatherless and barter away your friend.
 Job              6: 28  "But now be so kind as to look at me. Would I lie to your face?
-Job              6: 29  Relent, do not be unjust; reconsider, for my integrity is at stake.[ Or *my rightousness still stands* ]
+Job              6: 29  Relent, do not be unjust; reconsider, for my integrity is at stake.{ Or *my rightousness still stands* }
 Job              6: 30  Is there any wickedness on my lips? Can my mouth not discern malice?
 Job              7:  1  "Do not mortals have hard service on earth? Are not their days like those of hired laborers?
 Job              7:  2  Like a slave longing for the evening shower, or a hired laborer waiting to be paid,
@@ -650,7 +650,7 @@ Job              7: 16  I despise my life; I would not live forever. Let me alon
 Job              7: 17  "What is mankind that you make so much of them, that you give them so much attention,
 Job              7: 18  that you examine them every morning and test them every moment?
 Job              7: 19  Will you never look away from me, or let me alone even for an instant?
-Job              7: 20  If I have sinned, what have I done to you, you who see everything we do? Why have you made me your target? Have I become a burden to you?[ A few manuscripts of the Masoretic Text, an ancient Hebrew scribal tradition and Septuagint; most manuscripts of the Masoretic Text *I have become a burden to myself* ]
+Job              7: 20  If I have sinned, what have I done to you, you who see everything we do? Why have you made me your target? Have I become a burden to you?{ A few manuscripts of the Masoretic Text, an ancient Hebrew scribal tradition and Septuagint; most manuscripts of the Masoretic Text *I have become a burden to myself* }
 Job              7: 21  Why do you not pardon my offenses and forgive my sins? For I will soon lie down in the dust; you will search for me, but I will be no more."
 Job              8:  1  Then Bildad the Shuhite replied:
 Job              8:  2  "How long will you say such things? Your words are a blustering wind.
@@ -665,12 +665,12 @@ Job              8: 10  Will they not instruct you and tell you? Will they not b
 Job              8: 11  Can papyrus grow tall where there is no marsh? Can reeds thrive without water?
 Job              8: 12  While still growing and uncut, they wither more quickly than grass.
 Job              8: 13  Such is the destiny of all who forget God; so perishes the hope of the godless.
-Job              8: 14  What they trust in is fragile[ The meaning of the Hebrew for this word is uncertain. ]; what they rely on is a spider's web.
+Job              8: 14  What they trust in is fragile{ The meaning of the Hebrew for this word is uncertain. }; what they rely on is a spider's web.
 Job              8: 15  They lean on the web, but it gives way; they cling to it, but it does not hold.
 Job              8: 16  They are like a well-watered plant in the sunshine, spreading its shoots over the garden;
 Job              8: 17  it entwines its roots around a pile of rocks and looks for a place among the stones.
 Job              8: 18  But when it is torn from its spot, that place disowns it and says, 'I never saw you.'
-Job              8: 19  Surely its life withers away, and[ Or *Surely all the joy it has / is that* ] from the soil other plants grow.
+Job              8: 19  Surely its life withers away, and{ Or *Surely all the joy it has / is that* } from the soil other plants grow.
 Job              8: 20  "Surely God does not reject the one who is blameless or strengthen the hands of evildoers.
 Job              8: 21  He will yet fill your mouth with laughter and your lips with shouts of joy.
 Job              8: 22  Your enemies will be clothed in shame, and the tents of the wicked will be no more."
@@ -682,7 +682,7 @@ Job              9:  5  He moves mountains without their knowing it and overturn
 Job              9:  6  He shakes the earth from its place and makes its pillars tremble.
 Job              9:  7  He speaks to the sun and it does not shine; he seals off the light of the stars.
 Job              9:  8  He alone stretches out the heavens and treads on the waves of the sea.
-Job              9:  9  He is the Maker of the Bear[ Or *of Leo* ] and Orion, the Pleiades and the constellations of the south.
+Job              9:  9  He is the Maker of the Bear{ Or *of Leo* } and Orion, the Pleiades and the constellations of the south.
 Job              9: 10  He performs wonders that cannot be fathomed, miracles that cannot be counted.
 Job              9: 11  When he passes me, I cannot see him; when he goes by, I cannot perceive him.
 Job              9: 12  If he snatches away, who can stop him? Who can say to him, 'What are you doing?'
@@ -692,7 +692,7 @@ Job              9: 15  Though I were innocent, I could not answer him; I could 
 Job              9: 16  Even if I summoned him and he responded, I do not believe he would give me a hearing.
 Job              9: 17  He would crush me with a storm and multiply my wounds for no reason.
 Job              9: 18  He would not let me catch my breath but would overwhelm me with misery.
-Job              9: 19  If it is a matter of strength, he is mighty! And if it is a matter of justice, who can challenge him[ See Seputuagint; Hebrew *me*. ]?
+Job              9: 19  If it is a matter of strength, he is mighty! And if it is a matter of justice, who can challenge him{ See Seputuagint; Hebrew *me*. }?
 Job              9: 20  Even if I were innocent, my mouth would condemn me; if I were blameless, it would pronounce me guilty.
 Job              9: 21  "Although I am blameless, I have no concern for myself; I despise my own life.
 Job              9: 22  It is all the same; that is why I say, 'He destroys both the blameless and the wicked.'
@@ -723,7 +723,7 @@ Job             10: 11  clothe me with skin and flesh and knit me together with 
 Job             10: 12  You gave me life and showed me kindness, and in your providence watched over my spirit.
 Job             10: 13  "But this is what you concealed in your heart, and I know that this was in your mind:
 Job             10: 14  If I sinned, you would be watching me and would not let my offense go unpunished.
-Job             10: 15  If I am guilty—woe to me! Even if I am innocent, I cannot lift my head, for I am full of shame and drowned in[ Or *and aware of* ] my affliction.
+Job             10: 15  If I am guilty—woe to me! Even if I am innocent, I cannot lift my head, for I am full of shame and drowned in{ Or *and aware of* } my affliction.
 Job             10: 16  If I hold my head high, you stalk me like a lion and again display your awesome power against me.
 Job             10: 17  You bring new witnesses against me and increase your anger toward me; your forces come against me wave upon wave.
 Job             10: 18  "Why then did you bring me out of the womb? I wish I had died before any eye saw me.
@@ -731,79 +731,79 @@ Job             10: 19  If only I had never come into being, or had been carried
 Job             10: 20  Are not my few days almost over? Turn away from me so I can have a moment's joy
 Job             10: 21  before I go to the place of no return, to the land of gloom and utter darkness,
 Job             10: 22  to the land of the deepest night, of utter darkness and disorder, where even the light is like darkness."
-Job             11:  1  
-Job             11:  2  
-Job             11:  3  
-Job             11:  4  
-Job             11:  5  
-Job             11:  6  
-Job             11:  7  
-Job             11:  8  
-Job             11:  9  
-Job             11: 10  
-Job             11: 11  
-Job             11: 12  
-Job             11: 13  
-Job             11: 14  
-Job             11: 15  
-Job             11: 16  
-Job             11: 17  
-Job             11: 18  
-Job             11: 19  
-Job             11: 20  
-Job             12:  1  
-Job             12:  2  
-Job             12:  3  
-Job             12:  4  
-Job             12:  5  
-Job             12:  6  
-Job             12:  7  
-Job             12:  8  
-Job             12:  9  
-Job             12: 10  
-Job             12: 11  
-Job             12: 12  
-Job             12: 13  
-Job             12: 14  
-Job             12: 15  
-Job             12: 16  
-Job             12: 17  
-Job             12: 18  
-Job             12: 19  
-Job             12: 20  
-Job             12: 21  
-Job             12: 22  
-Job             12: 23  
-Job             12: 24  
-Job             12: 25  
-Job             13:  1  
-Job             13:  2  
-Job             13:  3  
-Job             13:  4  
-Job             13:  5  
-Job             13:  6  
-Job             13:  7  
-Job             13:  8  
-Job             13:  9  
-Job             13: 10  
-Job             13: 11  
-Job             13: 12  
-Job             13: 13  
-Job             13: 14  
-Job             13: 15  
-Job             13: 16  
-Job             13: 17  
-Job             13: 18  
-Job             13: 19  
-Job             13: 20  
-Job             13: 21  
-Job             13: 22  
-Job             13: 23  
-Job             13: 24  
-Job             13: 25  
-Job             13: 26  
-Job             13: 27  
-Job             13: 28  
+Job             11:  1  Then Zophar the Naamathite replied:
+Job             11:  2  "Are all these words to go unanswered? Is this talker to be vindicated?
+Job             11:  3  Will your idle talk reduce others to silence? Will no one rebuke you when you mock?
+Job             11:  4  You say to God, 'My beliefs are flawless and I am pure in your sight.'
+Job             11:  5  Oh, how I wish that God would speak, that he would open his lips against you
+Job             11:  6  and disclose to you the secrets of wisdom, for true wisdom has two sides. Know this: God has even forgotten some of your sin.
+Job             11:  7  "Can you fathom the mysteries of God? Can you probe the limits of the Almighty?
+Job             11:  8  They are higher than the heavens above—what can you do? They are deeper than the depths below—what can you know?
+Job             11:  9  Their measure is longer than the earth and wider than the sea.
+Job             11: 10  "If he comes along and confines you in prison and convenes a court, who can oppose him?
+Job             11: 11  Surely he recognizes deceivers; and when he sees evil, does he not take note?
+Job             11: 12  But the witless can no more become wise than a wild donkey's colt can be born human.{ Or *wild donkey can be born tame* }
+Job             11: 13  "Yet if you devote your heart to him and stretch out your hands to him,
+Job             11: 14  if you put away the sin that is in your hand and allow no evil to dwell in your tent,
+Job             11: 15  then, free of fault, you will lift up your face;
+Job             11: 16  You will surely forget your trouble, recalling it only as waters gone by.
+Job             11: 17  Life will be brighter than noonday, and darkness will become like morning.
+Job             11: 18  You will be secure, because there is hope; you will look about you and take your rest in safety.
+Job             11: 19  You will lie down, with no one to make you afraid, and many will court your favor.
+Job             11: 20  But the eyes of the wicked will fail, and escape will elude them; their hope will become a dying gasp."
+Job             12:  1  Then Job replied:
+Job             12:  2  "Doubtless you are the only people who matter, and wisdom will die with you!
+Job             12:  3  But I have a mind as well as you; I am not inferior to you. Who does not know all these things?
+Job             12:  4  "I have become a laughingstock to my friends, though I called on God and he answered—a mere laughingstock, though righteous and blameless!
+Job             12:  5  Those who are at ease have comtempt for misfortune as the fate of those whose feet are slipping.
+Job             12:  6  The tents of maruders are undisturbed, and those who provoke God are secure—those God has in his hands.{ Or *those whose god is in their own hands* }
+Job             12:  7  "But ask the animals, and they will teach you, or the birds in the sky, and they will tell you;
+Job             12:  8  or speak to the earth, and it will teach you, or let the fish in the sea inform you.
+Job             12:  9  Which of all these does not know that the hand of the LORD has done this?
+Job             12: 10  In his hand is the life of every creature and breath of all mankind.
+Job             12: 11  Does not the ear test the words as the tongue tastes food?
+Job             12: 12  Is not wisdom found among the aged? Does not long life bring understanding?
+Job             12: 13  "To God belong wisdom and power; counsel and understanding are his.
+Job             12: 14  What he tears down cannot be rebuilt; those he imprisons cannot be released.
+Job             12: 15  If he holds back the waters, there is drought; if he lets them loose, they devastate the land.
+Job             12: 16  To him belong strength and insight; both deceived and deceiver are his.
+Job             12: 17  He leads rulers away stripped and makes fools of judges.
+Job             12: 18  He takes off the shackles put on by kings and ties a loincloth{ Or *shackles of kings / and ties a belt* } around their waist.
+Job             12: 19  He leads priests away stripped and overthrows officials long established.
+Job             12: 20  He silences the lips of trusted advisers and takes away the discernment of elders.
+Job             12: 21  He pours contempt on nobles and disarms the mighty.
+Job             12: 22  He reveals the deep things of darkness and brings utter darkness into the light.
+Job             12: 23  He makes nations great, and destroys them; he enlarges nations, and disperses them.
+Job             12: 24  He deprives the leaders of the earth of their reason; he makes them wander in a trackless waste.
+Job             12: 25  They grope in darkness with no light; he makes them stagger like drunkards.
+Job             13:  1  "My eyes have seen all this, my ears have heard and understood it.
+Job             13:  2  What you know, I also know; I am not inferior to you.
+Job             13:  3  But I desire to speak to the Almighty and to argue my case with God.
+Job             13:  4  You, however, smear me with lies; you are worthless physicians, all of you!
+Job             13:  5  If only you would be altogether silent! For you, that would be wisdom.
+Job             13:  6  Hear now my argument; listen to the pleas of my lips.
+Job             13:  7  Will you speak wickedly on God's behalf? Will you speak deceitfully for him?
+Job             13:  8  Will you show him partiality? Will you argue the case for God?
+Job             13:  9  Would it turn out well if he examined you? Could you deceive him as you might deceive a mortal?
+Job             13: 10  He would surely call you to account if you secretly showed partiality.
+Job             13: 11  Would not his splendor terrify you? Would not the dread of him fall on you?
+Job             13: 12  Your maxims are proverbs of ashes; your defenses are defenses of clay.
+Job             13: 13  "Keep silent and let me speak; then let come to me what may.
+Job             13: 14  Why do I put myself into jeopardy and take my life in my hands?
+Job             13: 15  Though he slay me, yet will I hope in him; I will surely{ Or *He will surely slay me; I have no hope —/yet I will* } defend my ways to his face.
+Job             13: 16  Indeed, this will turn out for my deliverance, for no godless person would dare come before him!
+Job             13: 17  Listen carefully to what I say; let my words ring in your ears.
+Job             13: 18  Now that I have prepared my case, I know I will be vindicated.
+Job             13: 19  Can anyone bring charges against me? If so, I will be silent and die.
+Job             13: 20  "Only grant me this two things, God, and then I will not hide from you:
+Job             13: 21  Withdraw your hand far from me, and stop frightening me with your terrors.
+Job             13: 22  Then summon me and I will answer, or let me speak, and you reply to me.
+Job             13: 23  How many wrongs and sins have I committed? Show me my offense and my sin.
+Job             13: 24  Why do you hide your face and consider me your enemy?
+Job             13: 25  Will you torment a windblown leaf? Will you chase after dry chaff?
+Job             13: 26  For you write down bitter things against me and make me reap the sins of my youth.
+Job             13: 27  You fasten my feet in shackles; you keep close watch on all my paths by putting marks on the soles of my feet.
+Job             13: 28  "So man wastes away like something rotten, like a garment eaten by moths.
 Job             14:  1  
 Job             14:  2  
 Job             14:  3  
@@ -983,11 +983,11 @@ Job             42: 17
 Psalm           23:  1  The LORD is my shepherd, I lack nothing.
 Psalm           23:  2  He makes me lie down in green pastures, he leads me beside quiet waters,
 Psalm           23:  3  he refreshes my soul. He guides me along the right paths for his name's sake.
-Psalm           23:  4  Even though I walk through the darkest valley,[Or 'the valley of the shadow of death'] I will fear no evil, for you are with me; your rod and your staff, they comfort me.
+Psalm           23:  4  Even though I walk through the darkest valley,{Or 'the valley of the shadow of death'} I will fear no evil, for you are with me; your rod and your staff, they comfort me.
 Psalm           23:  5  You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows.
 Psalm           23:  6  Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the LORD forever.
 Psalm          117:  1  Praise the LORD, all you nations; extol him, all you peoples.
-Psalm          117:  2  For great is his love toward us, and the faithfulness of the LORD endures forever. Praise the LORD.[ Hebrew 'Hallelu Yah' ]
+Psalm          117:  2  For great is his love toward us, and the faithfulness of the LORD endures forever. Praise the LORD.{ Hebrew 'Hallelu Yah' }
 Psalm          119:176
 Psalm          150:  6
 Proverbs        31: 31
