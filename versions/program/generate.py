@@ -1,9 +1,9 @@
 def generate_bible_chapters_format_to_file():
     # Define the book name
-    book_name = "Job"
+    book_name = "Proverbs"
     # Assuming the number of verses in the first 10 chapters of Job
     chapter_verse_counts = {
-        1: 22,  # Chapter 1 has 22 verses
+        1: 33,  # Chapter 1 has 22 verses
         2: 13,  # Chapter 2 has 13 verses, and so on...
         3: 26,
         4: 21,
